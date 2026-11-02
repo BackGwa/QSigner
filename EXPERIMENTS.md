@@ -32,7 +32,7 @@ Synthesis in OpenUTAU functioned correctly, although some phonemes were pronounc
 
 The following samples were synthesized with the per-speaker model, using Vaundy's "踊り子" as the sample song and the UST created by エックス ([bowlroll.net/file/350099](https://bowlroll.net/file/350099)).
 
-| <video src="assets/sample1.mp4" controls></video> | <video src="assets/sample2.mp4" controls></video> |
+| <video src="https://github.com/user-attachments/assets/f72c7816-20bf-404e-86ce-4fdbb5a61519" controls></video> | <video src="https://github.com/user-attachments/assets/72ebc4ca-2f6b-4e3b-84f7-01244ad04407" controls></video> |
 | :---: | :---: |
 | Sample 1 | Sample 2 |
 
