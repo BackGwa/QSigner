@@ -28,6 +28,14 @@ The auxiliary decoder loss of the per-speaker acoustic model reached its minimum
 
 Synthesis in OpenUTAU functioned correctly, although some phonemes were pronounced unclearly and some long notes were not sustained to their end.
 
+## Samples
+
+The following samples were synthesized with the per-speaker model, using Vaundy's "踊り子" as the sample song and the UST created by エックス ([bowlroll.net/file/350099](https://bowlroll.net/file/350099)).
+
+| <video src="assets/sample1.mp4" controls></video> | <video src="assets/sample2.mp4" controls></video> |
+| :---: | :---: |
+| Sample 1 | Sample 2 |
+
 ## Discussion
 
 The per-speaker variance model, trained on approximately six minutes of singing, overfit early in training, and the acoustic model showed no further improvement after 3,000 steps. These trends, together with the failure to sustain long notes, may stem from the amount and quality of the training data, its predominance of speech, or note boundaries placed too early. Further evaluation with additional speakers and recordings is required to determine the cause.
