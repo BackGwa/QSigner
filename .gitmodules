@@ -1,0 +1,12 @@
+[submodule "third_party/DiffSinger"]
+	path = third_party/DiffSinger
+	url = https://github.com/openvpi/DiffSinger.git
+[submodule "third_party/SingingVocoders"]
+	path = third_party/SingingVocoders
+	url = https://github.com/openvpi/SingingVocoders.git
+[submodule "third_party/zipa"]
+	path = third_party/zipa
+	url = https://github.com/lingjzhu/zipa.git
+[submodule "third_party/icefall"]
+	path = third_party/icefall
+	url = https://github.com/k2-fsa/icefall.git
